@@ -1,4 +1,4 @@
-package golibtemplate
+package debuggithubactionrefs
 
 // Foo returns a string.
 func Foo() string {
